@@ -1,6 +1,6 @@
 # Hello World! 👋️
 
-- My name is **Alan Turing**!
+- My name is **Alan Turing da Silva**!
 - I'm a the biggest software developer from Brasil 😎
 - Currently the one and only owner of `IFSP-SCL` 🇧🇷 
 # Technologies & Tools 🔧  
